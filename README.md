@@ -23,3 +23,14 @@
     3. 使用真实、可信的数据（价格、性能、规模、实际案例）。
     4. 每项重要功能至少使用 1 至 2 页详细介绍。
     5. 结尾包含品牌总结、行动指引与官方网站。
+支持 |赞助支持
+如果你支持YuNi Bridge的开源愿景并希望支持其未来发展，欢迎通过以下渠道捐款。
+
+如果你认可屿你桥的开源设计理念并希望支持后续发展，欢迎通过下方渠道提供赞助。
+
+USDT
+
+TRC20：TBQ7mRU18cEKv1ABwwSbNrgyyBhczAtGks
+BSC：0xfa21c5a56231680a0b655c3be9d81242764f7c21
+或者：
+收款码<img width="1242" height="1686" alt="image" src="https://github.com/user-attachments/assets/f4e63317-74ac-410c-b87c-5e5429b2eda4" />
